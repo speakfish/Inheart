@@ -1,0 +1,17 @@
+eclipse.preferences.version=1
+encoding//inheart/Utils/DBHelper.py=utf-8
+encoding//inheart/entrypoint.py=UTF-8
+encoding//inheart/items/CarBrandItems.py=utf-8
+encoding//inheart/items/CarSaleAmountItems.py=utf-8
+encoding//inheart/items/HouseCityItems.py=utf-8
+encoding//inheart/items/ZhiHuUser.py=utf-8
+encoding//inheart/pipelines/CarBrandPipeline.py=utf-8
+encoding//inheart/pipelines/CarSaleAmountPipeline.py=utf-8
+encoding//inheart/pipelines/ZhihuPipeline.py=utf-8
+encoding//inheart/settings.py=utf-8
+encoding//inheart/spiders/CarBrandSpider.py=utf-8
+encoding//inheart/spiders/CarBrandTestSpider.py=UTF-8
+encoding//inheart/spiders/CarSaleAmountSpider.py=utf-8
+encoding//inheart/spiders/HouseCitySpider.py=utf-8
+encoding//inheart/spiders/ZhihuSpider.py=utf-8
+encoding//inheart/tset.py=utf-8
